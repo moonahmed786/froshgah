@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?php echo e(asset('assets/backend/css/summernote-bs4.css')); ?>"><?php /**PATH /home/u363353642/domains/froshgah.store/public_html/@core/resources/views/components/summernote/css.blade.php ENDPATH**/ ?>
