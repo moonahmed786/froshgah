@@ -5887,6 +5887,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   cursor: pointer;
 }
 
+/*Change in color*/
 .widget.widget-color .checkbox-size .single-checkbox-wrap .size-code,
 .widget.widget-color .checkbox-color .single-checkbox-wrap .size-code {
       font-family: var(--body-font);
