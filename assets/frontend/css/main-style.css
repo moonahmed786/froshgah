@@ -2110,14 +2110,14 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 }
 
 .navbar-area.nav-style-01 {
-  background-color: #b69d50;
+  background-color: #b69d50 !important;
   position: relative;
   height: 110px;
   z-index: 9;
 }
 
 .navbar-area.nav-style-01 .nav-container {
-  background-color: #b69d50;
+  background-color: #b69d50 !important;
   -webkit-box-shadow: none;
   box-shadow: none;
   border-radius: 0;
