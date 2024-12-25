@@ -1,1 +1,0 @@
-<script src="<?php echo e(asset('assets/backend/js/jquery.nice-select.min.js')); ?>"></script><?php /**PATH /home/u363353642/domains/froshgah.store/public_html/@core/resources/views/components/niceselect/js.blade.php ENDPATH**/ ?>

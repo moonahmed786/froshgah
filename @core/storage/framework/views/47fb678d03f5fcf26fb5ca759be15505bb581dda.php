@@ -1,1 +1,0 @@
-<link rel="stylesheet" href="<?php echo e(asset('assets/backend/css/nice-select.css')); ?>"><?php /**PATH /home/u363353642/domains/froshgah.store/public_html/@core/resources/views/components/niceselect/css.blade.php ENDPATH**/ ?>
