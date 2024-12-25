@@ -1,1 +1,4 @@
 /* white you custom css code here. only css code will work */
+.widget.widget-color .checkbox-size .single-checkbox-wrap .size-code, .widget.widget-color .checkbox-color .single-checkbox-wrap .size-code {
+	color: black !important;
+}
