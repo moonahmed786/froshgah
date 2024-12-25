@@ -5894,7 +5894,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     position: relative;
     font-weight: 500;
     font-size: 14px;
-    color: #000000;
+    color: #000000 !important;
     line-height: 22px;
     text-align: center;
     background-color: transparent;
