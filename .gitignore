@@ -1,1 +1,3 @@
 @core/storage/*
+@code/vendor/*
+@core/.env
